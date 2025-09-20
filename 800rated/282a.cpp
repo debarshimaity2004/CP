@@ -17,3 +17,6 @@ int main()
     }
     cout<<x;
 }
+
+// Time Complexity (TC): O(n)
+// Space Complexity (SC): O(1)
